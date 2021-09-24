@@ -8,4 +8,4 @@
 - 3차 해커톤 : 2021년 11월 10일 ~ 12월 15일    
 ---
 [Notion 페이지](https://aiffel-sia.notion.site/I-feel-Earth-d0e9731a7a534516bce9412e4ce143b1)   
-[협업 깃허브 레포]()
+[협업 깃허브 레포](https://github.com/I-feel-Earth)
